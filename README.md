@@ -1,9 +1,20 @@
 <h1 align="center">Hi 👋, I'm Labib Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=labibkhanofficialbd&label=Profile%20views&color=0e75b6&style=flat" alt="labibkhanoffciailbd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=labibkhanofficialbd&label=Profile%20views&color=0e75b6&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/labibkhanofficialbd/github-profile-trophy"/> 
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/labibkhanofficialbd/github-profile-trophy"/> 
+  </a>  
+  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/labibkhanofficialbd/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/labibkhanofficialbd/github-profile-trophy"/> 
+  </a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labibkhanofficialbd" alt="labibkhanofficialbd" /></a> </p>
+<p align="center" style="width:100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=labibkhanofficialbd&theme=onedark" alt="labibkhanofficialbd" /></a> </p>
 
 - 🔭 I’m currently working on **Frontend Development**
 
