@@ -2,17 +2,15 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=labibkhanofficialbd&label=Profile%20views&color=0e75b6&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/labibkhanofficialbd/github-profile-trophy"/> 
+    <img src="https://img.shields.io/badge/age-19-blue"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/labibkhanofficialbd/github-profile-trophy"/> 
+    <img src="https://img.shields.io/badge/focus-Frontend-blue"/> 
   </a>  
   <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/labibkhanofficialbd/github-profile-trophy"/> 
+    <img src="https://img.shields.io/badge/living-Brahmanbaria-blue"/> 
   </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/labibkhanofficialbd/github-profile-trophy"/> 
-  </a> </p>
+     </p>
 
 <p align="center" style="width:100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=labibkhanofficialbd&theme=onedark" alt="labibkhanofficialbd" /></a> </p>
 
