@@ -12,7 +12,9 @@
   </a>
      </p>
 
-<p align="center" style="width:100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=labibkhanofficialbd&theme=onedark" alt="labibkhanofficialbd" /></a> </p>
+ <p align="center">
+  <img  width=800 src="https://github-profile-trophy.vercel.app/?username=labibkhanofficialbd&column=8&theme=gruvbox&no-frame=true"/>
+</p>
 
 - 🔭 I’m currently working on **Frontend Development**
 
