@@ -13,20 +13,20 @@
      </p>
 
  <p align="center">
-  <img height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=labibkhanofficialbd&column=8&theme=gruvbox&no-frame=true"/>
+  <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=labibkhanofficialbd&column=8&theme=gruvbox&no-frame=true"/>
 </p>
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **Flutter,HTML,CSS,JS,React**
+- 🌱 I’m currently learning **HTML,CSS,JS,React**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 🤝 I’m looking for help with **Dart/Flutter , Frondend development**
+- 🤝 I’m looking for help with **html/css/js, Frondend development**
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **labibkhan66410@gmai.com**
+- 📫 How to reach me **labibkhan66410@gmail.com**
 
 - ⚡ Fun fact **I am too lazy**
 
