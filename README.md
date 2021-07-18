@@ -12,8 +12,8 @@
   </a>
      </p>
 
- <p align="center">
-  <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=labibkhanofficialbd&column=8&theme=gruvbox&no-frame=true"/>
+ <p align="center" >
+  <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=labibkhanofficialbd&column=8&theme=onedark&no-frame=true"/>
 </p>
 
 - 🔭 I’m currently working on **Frontend Development**
