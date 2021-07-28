@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Labib Khan</h1>
+<h1 align="center">Hi 👋, I'm Irtiza Khan Labib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=labibkhanofficialbd&label=Profile%20views&color=0e75b6&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
