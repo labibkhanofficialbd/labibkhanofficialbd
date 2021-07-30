@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Irtiza Khan Labib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=labibkhanofficialbd&label=Profile%20views&color=0e75b6&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/badge/Age-19-blue"/> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=labibkhanofficialbd&label=Profile%20views&color=4DC71F&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+    <img src="https://img.shields.io/badge/Age-19-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/badge/Focus-Frontend-blue"/> 
+    <img src="https://img.shields.io/badge/Focus-Frontend-brighteen"/> 
   </a>  
   <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/badge/Living-Brahmanbaria-blue"/> 
+    <img src="https://img.shields.io/badge/Living-Brahmanbaria-brighteen"/> 
   </a>
      </p>
 
