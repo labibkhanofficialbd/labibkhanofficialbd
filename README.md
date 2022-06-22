@@ -79,5 +79,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=labibkhanofficialbd&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="labibkhanofficialbd" /></p>
 
   <br/>
-   <a href="https://github.com/adityackr"><img alt="adityackr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=labibkhanofficialbd&custom_title=Irtiza-Khan-Labib's%20Contribution%20Graph&theme=react-dark" /></a>
+   <img alt="Irtiza Khan Labib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=labibkhanofficialbd&custom_title=Irtiza%20Khan%20Labib's%20Contribution%20Graph&theme=react-dark" />
   <br/>
